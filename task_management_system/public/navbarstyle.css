@@ -1,0 +1,14 @@
+.nav-style
+{
+    background-color: #2F0C70;
+}
+.nav-link{
+    color: white;
+    font-size: 1.1rem;
+}
+.nav-link:hover{
+    color: rgb(231, 231, 231);
+    cursor: pointer;
+    font-weight: 600;
+    text-decoration: underline;
+}
